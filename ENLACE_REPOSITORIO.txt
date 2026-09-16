@@ -1,0 +1,5 @@
+Enlace del repositorio:
+https://github.com/TU-USUARIO/reservas-sena
+
+(Reemplaza esta URL por la de tu propio repositorio en GitHub
+despues de subir este proyecto, como se explica en el chat).
